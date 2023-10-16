@@ -1,0 +1,2 @@
+-e Mon 16 Oct 14:17:56 BST 2023 	 2 awkoutputfile.txt
+-e Mon 16 Oct 14:17:56 BST 2023 	 33 myawkscript.awk
